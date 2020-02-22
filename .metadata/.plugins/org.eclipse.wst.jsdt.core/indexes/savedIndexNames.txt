@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/yiweigao/Desktop/shangke/project/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3026521838.index
+661978908.index
+996703600.index
+1095514887.index
+3867892485.index
+1552932929.index

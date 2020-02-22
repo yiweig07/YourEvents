@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="736"/>
+		<item key="dialogWidth" value="814"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.egit.ui.CreateRepositoryWizard"/>
+			<item value="org.eclipse.egit.ui.InteractiveRebaseView"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.wizards"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+			<item value="2"/>
+		</list>
+		<list key="textArray">
+			<item value="git"/>
+			<item value="githu b"/>
+			<item value="github"/>
+		</list>
+	</section>
+</section>
